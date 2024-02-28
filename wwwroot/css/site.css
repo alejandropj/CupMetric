@@ -18,5 +18,15 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background: linear-gradient(to bottom right,#FF5733, #FFA07A);
 }
+
+footer {
+    background: linear-gradient(to right, #99fdef, #2cefc0);
+}
+
+/**{
+    border:1px solid black;
+}*/
+
